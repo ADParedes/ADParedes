@@ -1,8 +1,9 @@
 ### Hi there 👋, my name is Andre
-#### Open science and Open source software enthusiast
-![Open science and Open source software enthusiast](https://media1.giphy.com/media/T2qNLJhyUTME2fb0oI/giphy.gif?cid=790b761153688c864956293c22d9c09ffaa0a5163322b17f&rid=giphy.gif&ct=g)
+#### Open science and digital biomarkers enthusiast
+![Open science and digital biomarkers enthusiast](https://media1.giphy.com/media/T2qNLJhyUTME2fb0oI/giphy.gif?cid=790b761153688c864956293c22d9c09ffaa0a5163322b17f&rid=giphy.gif&ct=g)
 
-I have a Ph.D. in Bioengineering, and I have a passion for open science projects that permit both scientific research methods, and open-source  software development.  I also play a lot of soccer, and host public pick up soccer events in Chicago.  If you are ever in Chicago and want to play, look me up, all are welcomed!
+**I have a Ph.D. in Bioengineering, and I have a passion for open science projects with open source software.**
+Like open-source software development, where a community of volunteers who believe in the good of the software contribute their precious time to building upon it,  **I can see world where citizen scientists contribute to open science projects to interrogate a research question, data process, and analyze data in digestible batches with other citizen scientists in other parts of the world, all in the comfort of their home**
 
 Skills: Python/ R/ MATLAB / and data science / machine learning
 
