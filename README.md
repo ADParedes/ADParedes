@@ -10,9 +10,9 @@ Skills: Python/ R/ MATLAB / and data science / machine learning
 
 - 🔭 I’m currently working on OpenDBM and audiovisual digital biomarkers 
 - 🌱 I’m currently learning about digital biomarker open source software platforms
-- 👯 I’m looking to collaborate on open science projects, digital biomarker development, programing an internship  
+- 👯 I’m looking to collaborate on open science projects, digital biomarker development, student-mentoring programs
 - 🤔 I’m looking for help with software development and technical writing 
-- 💬 Ask me about OpenDBM 
+- 💬 Ask me about ([OpenDBM](https://github.com/AiCure/open_dbm))
 - 😄 Pronouns: He / Him 
 
 
