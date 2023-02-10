@@ -10,8 +10,8 @@ Skills: Python/ R/ MATLAB / and data science / machine learning
 
 - 🔭 I’m currently working on [OpenDBM](https://github.com/AiCure/open_dbm) and [audiovisual digital biomarkers](https://aicure.com/opendbm/)
 - 🌱 I’m currently learning about digital biomarker open source software platforms
-- 👯 I’m looking to collaborate to apply to grants to within the scopes of open science digital biomarker development or student-mentoring research programs.
-- 🤔 I’m looking for help with software development, technical writing, and providing open science research opportunties. 
+- 👯 I’m looking to collaborate on academic research publications and apply to grants - within the scopes of open science digital biomarker development or student-mentoring research programs.
+- 🤔 I’m looking for help with authorship on academic review papers, software development, technical writing, and providing open science research opportunties. 
 - 💬 Ask me about [OpenDBM](https://github.com/AiCure/open_dbm) and how you can join the community. If you talk to me directly and are intersted in collaborating, I know we can find an way to work together.
 - 😄 Pronouns: He / Him 
 
