@@ -8,12 +8,11 @@ Like open-source software development, where a community of volunteers who belie
 
 Skills: Python/ R/ MATLAB / and data science/machine learning
 
-- 🔭 I’m currently working on the Muscle Dystrophy Association's MOVR Data hub. A notable past project was [OpenDBM](https://github.com/AiCure/open_dbm) and [audiovisual digital biomarkers](https://aicure.com/opendbm/)
-- 🌱 I’m currently learning about the breadth and quality of real-world data (RWD) in neuromuscular diseases (NMD).  I want to be able to apply best practices in RWD analytics and data collection to NMD research.
-- 👯 I’m looking to collaborate on academic research publications and apply for grants - within the scope of open biomedical science, NMD RWD analytics, NMD digital biomarker development, or student-mentoring research programs.
-- 🤔 I’m looking for help with authorship on academic review papers, software development, technical writing, and providing open science research opportunities. 
-- 💬 Ask me about MDA MOVR and how you can join the community. If you talk to me directly and are enthusiastic and committed in collaborating and learning, I know we can find a way to work together.
-- 😄 Pronouns: He / Him 
+- I’m currently working on the Muscle Dystrophy Association's MOVR Data hub. A notable past project was [OpenDBM](https://github.com/AiCure/open_dbm) and [audiovisual digital biomarkers](https://aicure.com/opendbm/)
+- I’m currently learning about the breadth and quality of real-world data (RWD) and real-world evidence (RWE) in neuromuscular diseases (NMD).  I apply best practices in RWD analytics and data collection to NMD research.
+- I’m looking to collaborate on MOVR 2.0, academic research publications, and grants - within the scope of open biomedical science, NMD RWD analytics, NMD digital biomarker development, or student-mentoring research programs.
+- Ask me about MDA, MOVR, OpenMOVR and how you can join the open source community. If you talk to me directly and are enthusiastic and committed in collaborating and learning, I know we can find a way to work together.
+- Pronouns: He / Him 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ADParedes)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/ADParedes)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/andre-daniel-paredes/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://github.com/AiCure/open_dbm)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/researchgate.svg' alt='researchgate' height='40'>](https://www.researchgate.net/profile/Andre-Paredes)  
