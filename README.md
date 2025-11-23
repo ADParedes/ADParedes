@@ -1,26 +1,28 @@
-### Hi there 👋, my name is Andre
-#### Open biomedical science and clinical data science enthusiast
-![Open science and audiovisual digital biomarkers enthusiast](https://media1.giphy.com/media/T2qNLJhyUTME2fb0oI/giphy.gif?cid=790b761153688c864956293c22d9c09ffaa0a5163322b17f&rid=giphy.gif&ct=g)
+## Andre Daniel Paredes, PhD
 
-**I have a Ph.D. in Biomedical engineering and I have a passion for global health initiatives to address health gaps and disparities.**
+**Sr. Director, Strategy & Informatics | Clinical AI & Platform Strategy**
 
-Like open-source software development, where a community of volunteers who believe in the good of the software contribute their precious time to building upon it,  **I can see world where citizen scientists contribute to open science projects to interrogate a research question, data process, and analyze data in digestible batches with other citizen scientists in other parts of the world, all in the comfort of their home**
+Healthcare data science executive with 15+ years leading clinical analytics, AI/ML platforms, and enterprise data strategy. I build and scale data-driven solutions that transform how organizations leverage real-world evidence for measurable impact.
 
-Skills: Python/ R/ MATLAB / and data science/machine learning
+### Current Focus
 
-- I’m currently working on the Muscle Dystrophy Association's MOVR Data hub. A notable past project was [OpenDBM](https://github.com/AiCure/open_dbm) and [audiovisual digital biomarkers](https://aicure.com/opendbm/)
-- I’m currently learning about the breadth and quality of real-world data (RWD) and real-world evidence (RWE) in neuromuscular diseases (NMD).  I apply best practices in RWD analytics and data collection to NMD research.
-- I’m looking to collaborate on MOVR 2.0, academic research publications, and grants - within the scope of open biomedical science, NMD RWD analytics, NMD digital biomarker development, or student-mentoring research programs.
-- Ask me about MDA, MOVR, OpenMOVR and how you can join the open source community. If you talk to me directly and are enthusiastic and committed in collaborating and learning, I know we can find a way to work together.
-- Pronouns: He / Him 
+**Muscular Dystrophy Association** — Leading patient registry modernization and AI-powered clinical data platforms. Driving FHIR integration, LLM-based data curation workflows, and strategic partnerships that have transitioned operations from cost center to revenue-generating.
 
+### Areas of Expertise
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ADParedes)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/ADParedes)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/andre-daniel-paredes/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://github.com/AiCure/open_dbm)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/researchgate.svg' alt='researchgate' height='40'>](https://www.researchgate.net/profile/Andre-Paredes)  
+- **Clinical Data Platforms** — Registry systems, EMR integration, FHIR/HL7, clinical ontology development
+- **AI/ML in Healthcare** — LLM workflows, NLP, computer vision biomarkers, model validation
+- **Enterprise Data Strategy** — Cloud infrastructure (AWS, Azure), data governance, Databricks/Snowflake
+- **Strategic Leadership** — Cross-functional team leadership, vendor partnerships, go-to-market strategy
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ADParedes&show_icons=true)  
+### Notable Work
 
-![GitHub metrics](https://metrics.lecoq.io/ADParedes)  
+- **[OpenDBM](https://github.com/AiCure/open_dbm)** — Open-source digital biomarker platform for audiovisual health analytics
+- **NIH-funded Cloud Data Commons** — Led $5M+ bioinformatics AI portfolio at UChicago CTDS
+- **BARDA Toxicology CRO** — Managed $2M contract portfolio for radiation injury therapeutics research
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ADParedes)  
+### Connect
 
-![Profile views](https://gpvc.arturio.dev/ADParedes)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andre-daniel-paredes/)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Andre-Paredes)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=github&logoColor=white)](https://adparedes.github.io)  
