@@ -1,28 +1,24 @@
-## Andre Daniel Paredes, PhD
+# Andre Daniel Paredes, PhD
 
-**Sr. Director, Strategy & Informatics | Clinical AI & Platform Strategy**
+**Vice President | Real-World Evidence & Data Strategy | Clinical AI & Platform Strategy**
 
-Healthcare data science executive with 15+ years leading clinical analytics, AI/ML platforms, and enterprise data strategy. I build and scale data-driven solutions that transform how organizations leverage real-world evidence for measurable impact.
+I work with health data, technology, and research teams to make data more useful for people doing research and improving care. My work spans real-world evidence, clinical AI, and the platforms behind them. I try to keep the focus practical: build trustworthy tools, solve real problems, and work in ways that respect patients and the people who support them.
 
-### Current Focus
+## Current work
 
-**Muscular Dystrophy Association** — Leading patient registry modernization and AI-powered clinical data platforms. Driving FHIR integration, LLM-based data curation workflows, and strategic partnerships that have transitioned operations from cost center to revenue-generating.
+At the Muscular Dystrophy Association, I work on **MOVR**, a neuromuscular disease registry and research program. I'm interested in how thoughtful data and technology can support research and be useful to the patient community.
 
-### Areas of Expertise
+- [Explore Open MOVR](https://openmovr-gen1.streamlit.app/)
+- [About MDA's MOVR program](https://www.mda.org/science/movr2)
 
-- **Clinical Data Platforms** — Registry systems, EMR integration, FHIR/HL7, clinical ontology development
-- **AI/ML in Healthcare** — LLM workflows, NLP, computer vision biomarkers, model validation
-- **Enterprise Data Strategy** — Cloud infrastructure (AWS, Azure), data governance, Databricks/Snowflake
-- **Strategic Leadership** — Cross-functional team leadership, vendor partnerships, go-to-market strategy
+## Other work
 
-### Notable Work
+My previous work includes an open-source digital biomarker platform, NIH-funded data and research infrastructure at the University of Chicago, and research related to radiation-injury therapeutics.
 
-- **[OpenDBM](https://github.com/AiCure/open_dbm)** — Open-source digital biomarker platform for audiovisual health analytics
-- **NIH-funded Cloud Data Commons** — Led $5M+ bioinformatics AI portfolio at UChicago CTDS
-- **BARDA Toxicology CRO** — Managed $2M contract portfolio for radiation injury therapeutics research
+- [OpenDBM](https://github.com/AiCure/open_dbm) — an open-source digital biomarker project
+- NIH-funded Cloud Data Commons work at the University of Chicago
+- BARDA-supported research on radiation-injury therapeutics
 
-### Connect
+## Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andre-daniel-paredes/)
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Andre-Paredes)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=github&logoColor=white)](https://adparedes.github.io)  
+[LinkedIn](https://www.linkedin.com/in/andre-daniel-paredes/) · [ResearchGate](https://www.researchgate.net/profile/Andre-Paredes) · [Portfolio](https://adparedes.github.io)
