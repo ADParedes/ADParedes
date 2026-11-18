@@ -1,6 +1,6 @@
 # Andre Daniel Paredes, PhD
 
-**Vice President | Real-World Evidence & Data Strategy | Clinical AI & Platform Strategy**
+**Health data, research, and technology**
 
 I work with health data, technology, and research teams to make data more useful for people doing research and improving care. My work spans real-world evidence, clinical AI, and the platforms behind them. I try to keep the focus practical: build trustworthy tools, solve real problems, and work in ways that respect patients and the people who support them.
 
